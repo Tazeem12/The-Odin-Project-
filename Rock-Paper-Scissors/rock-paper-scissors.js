@@ -1,0 +1,1 @@
+document.getElementById(demo)=alert("Hello World")
